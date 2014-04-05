@@ -16,7 +16,7 @@ fail_bg_color = termstyle.bg_default
 def py_files(filename):
     # dir_name is the full path to the directory of the file that changed
     dir_path = os.path.dirname(filename)
-    return filename.endswith('.py') and not dir_path.startswith('.') and not dir_path.endswith('/tmp') and not dir_path.endswith('/script')
+    return filename.endswith('.py') and not dir_path.startswith('.')
 
 # This gets invoked for verification. This is ideal for running tests of some sort.
 # For anything you want to get constantly reloaded, do an import in the function.

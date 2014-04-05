@@ -1,0 +1,1126 @@
+{
+    "asks": [
+        {
+            "price": 450.79,
+            "quantity": 2.0674
+        },
+        {
+            "price": 451.53,
+            "quantity": 2.5947
+        },
+        {
+            "price": 452.45,
+            "quantity": 3.7634
+        },
+        {
+            "price": 453.54,
+            "quantity": 7.4892
+        },
+        {
+            "price": 454.51,
+            "quantity": 9.7153
+        },
+        {
+            "price": 456.71,
+            "quantity": 23.1904
+        },
+        {
+            "price": 460.57,
+            "quantity": 2.6402
+        },
+        {
+            "price": 460.8,
+            "quantity": 1.0226
+        },
+        {
+            "price": 461.9,
+            "quantity": 0.5058
+        },
+        {
+            "price": 463.3,
+            "quantity": 2
+        },
+        {
+            "price": 463.71,
+            "quantity": 1.2063
+        },
+        {
+            "price": 463.99,
+            "quantity": 1.8963
+        },
+        {
+            "price": 465.09,
+            "quantity": 0.9671
+        },
+        {
+            "price": 465.62,
+            "quantity": 0.6641
+        },
+        {
+            "price": 465.63,
+            "quantity": 2.4893
+        },
+        {
+            "price": 465.64,
+            "quantity": 0.8725
+        },
+        {
+            "price": 467.11,
+            "quantity": 1.6586
+        },
+        {
+            "price": 467.7,
+            "quantity": 2.8274
+        },
+        {
+            "price": 467.91,
+            "quantity": 2.6263
+        },
+        {
+            "price": 468.05,
+            "quantity": 2.8565
+        },
+        {
+            "price": 468.21,
+            "quantity": 2.7267
+        },
+        {
+            "price": 471.67,
+            "quantity": 0.754
+        },
+        {
+            "price": 473.56,
+            "quantity": 0.521
+        },
+        {
+            "price": 473.86,
+            "quantity": 2.7338
+        },
+        {
+            "price": 474.22,
+            "quantity": 2.0399
+        },
+        {
+            "price": 475.69,
+            "quantity": 1.7471
+        },
+        {
+            "price": 476.11,
+            "quantity": 2.8093
+        },
+        {
+            "price": 476.5,
+            "quantity": 0.7313
+        },
+        {
+            "price": 476.64,
+            "quantity": 0.4552
+        },
+        {
+            "price": 477.75,
+            "quantity": 1.8757
+        },
+        {
+            "price": 477.93,
+            "quantity": 0.7169
+        },
+        {
+            "price": 478.15,
+            "quantity": 1.6228
+        },
+        {
+            "price": 479.27,
+            "quantity": 1.0071
+        },
+        {
+            "price": 480.93,
+            "quantity": 2.3679
+        },
+        {
+            "price": 481.78,
+            "quantity": 2.0447
+        },
+        {
+            "price": 483.13,
+            "quantity": 0.2151
+        },
+        {
+            "price": 483.39,
+            "quantity": 2.1487
+        },
+        {
+            "price": 484,
+            "quantity": 2
+        },
+        {
+            "price": 484.48,
+            "quantity": 2.8165
+        },
+        {
+            "price": 486.96,
+            "quantity": 2.3864
+        },
+        {
+            "price": 487.45,
+            "quantity": 2.577
+        },
+        {
+            "price": 488.94,
+            "quantity": 1.0538
+        },
+        {
+            "price": 489.39,
+            "quantity": 0.6403
+        },
+        {
+            "price": 490.09,
+            "quantity": 1.0149
+        },
+        {
+            "price": 490.1,
+            "quantity": 1.1379
+        },
+        {
+            "price": 490.26,
+            "quantity": 1.8133
+        },
+        {
+            "price": 490.3,
+            "quantity": 0.5395
+        },
+        {
+            "price": 491.86,
+            "quantity": 0.7819
+        },
+        {
+            "price": 493.07,
+            "quantity": 0.4454
+        },
+        {
+            "price": 495.12,
+            "quantity": 1.3933
+        },
+        {
+            "price": 496.68,
+            "quantity": 1.8609
+        },
+        {
+            "price": 497.24,
+            "quantity": 0.9432
+        },
+        {
+            "price": 498.75,
+            "quantity": 2.7303
+        },
+        {
+            "price": 498.84,
+            "quantity": 1.5787
+        },
+        {
+            "price": 499.31,
+            "quantity": 0.9249
+        },
+        {
+            "price": 499.33,
+            "quantity": 1.956
+        },
+        {
+            "price": 500.37,
+            "quantity": 0.3144
+        },
+        {
+            "price": 502.92,
+            "quantity": 0.9203
+        },
+        {
+            "price": 503.24,
+            "quantity": 1.8713
+        },
+        {
+            "price": 503.29,
+            "quantity": 1.8366
+        },
+        {
+            "price": 503.38,
+            "quantity": 2.3329
+        },
+        {
+            "price": 504.02,
+            "quantity": 1.0085
+        },
+        {
+            "price": 504.2,
+            "quantity": 1.0517
+        },
+        {
+            "price": 506.45,
+            "quantity": 1.9878
+        },
+        {
+            "price": 511.28,
+            "quantity": 0.7445
+        },
+        {
+            "price": 512.14,
+            "quantity": 1.8528
+        },
+        {
+            "price": 513.04,
+            "quantity": 1.6725
+        },
+        {
+            "price": 513.09,
+            "quantity": 3.7074
+        },
+        {
+            "price": 513.13,
+            "quantity": 1.9114
+        },
+        {
+            "price": 515.23,
+            "quantity": 2.0002
+        },
+        {
+            "price": 516.29,
+            "quantity": 1.9044
+        },
+        {
+            "price": 517.87,
+            "quantity": 0.3622
+        },
+        {
+            "price": 518.1,
+            "quantity": 1
+        },
+        {
+            "price": 518.31,
+            "quantity": 0.9767
+        },
+        {
+            "price": 522.84,
+            "quantity": 0.4641
+        },
+        {
+            "price": 523.24,
+            "quantity": 2.0699
+        },
+        {
+            "price": 523.26,
+            "quantity": 2.7821
+        },
+        {
+            "price": 523.41,
+            "quantity": 0.2781
+        },
+        {
+            "price": 524.11,
+            "quantity": 2.7227
+        },
+        {
+            "price": 524.38,
+            "quantity": 0.9974
+        },
+        {
+            "price": 524.9,
+            "quantity": 2.5223
+        },
+        {
+            "price": 524.93,
+            "quantity": 1.2426
+        },
+        {
+            "price": 525.97,
+            "quantity": 1.8697
+        },
+        {
+            "price": 526.19,
+            "quantity": 2.4028
+        },
+        {
+            "price": 526.39,
+            "quantity": 1.4925
+        },
+        {
+            "price": 526.82,
+            "quantity": 2.287
+        },
+        {
+            "price": 527.1,
+            "quantity": 2.4739
+        },
+        {
+            "price": 527.21,
+            "quantity": 1.8297
+        },
+        {
+            "price": 527.97,
+            "quantity": 2.4142
+        },
+        {
+            "price": 530.83,
+            "quantity": 1.1807
+        },
+        {
+            "price": 535.11,
+            "quantity": 0.5355
+        },
+        {
+            "price": 550,
+            "quantity": 1.97
+        },
+        {
+            "price": 560,
+            "quantity": 1
+        },
+        {
+            "price": 568,
+            "quantity": 1
+        },
+        {
+            "price": 571,
+            "quantity": 29
+        },
+        {
+            "price": 572,
+            "quantity": 30
+        },
+        {
+            "price": 572.85,
+            "quantity": 30
+        },
+        {
+            "price": 585,
+            "quantity": 2.25
+        },
+        {
+            "price": 590,
+            "quantity": 1
+        },
+        {
+            "price": 595,
+            "quantity": 20.9375
+        },
+        {
+            "price": 600,
+            "quantity": 0.25
+        },
+        {
+            "price": 629,
+            "quantity": 0.01
+        },
+        {
+            "price": 635,
+            "quantity": 0.25
+        },
+        {
+            "price": 640,
+            "quantity": 2.435
+        },
+        {
+            "price": 650,
+            "quantity": 2.67
+        },
+        {
+            "price": 666,
+            "quantity": 1
+        },
+        {
+            "price": 675,
+            "quantity": 0.25
+        },
+        {
+            "price": 700,
+            "quantity": 0.25
+        },
+        {
+            "price": 727.6,
+            "quantity": 0.99
+        },
+        {
+            "price": 750,
+            "quantity": 2
+        }
+    ],
+    "bids": [
+        {
+            "price": 448.97,
+            "quantity": 1.528
+        },
+        {
+            "price": 448.23,
+            "quantity": 3.7128
+        },
+        {
+            "price": 447.17,
+            "quantity": 4.3895
+        },
+        {
+            "price": 446.45,
+            "quantity": 6.7723
+        },
+        {
+            "price": 445.58,
+            "quantity": 10.4268
+        },
+        {
+            "price": 443.11,
+            "quantity": 21.6394
+        },
+        {
+            "price": 436.46,
+            "quantity": 0.8613
+        },
+        {
+            "price": 433.96,
+            "quantity": 0.543
+        },
+        {
+            "price": 432.29,
+            "quantity": 1.9723
+        },
+        {
+            "price": 432.05,
+            "quantity": 0.5339
+        },
+        {
+            "price": 431.78,
+            "quantity": 1.3314
+        },
+        {
+            "price": 431.44,
+            "quantity": 0.5912
+        },
+        {
+            "price": 431.27,
+            "quantity": 0.5156
+        },
+        {
+            "price": 429.96,
+            "quantity": 1.6886
+        },
+        {
+            "price": 429.78,
+            "quantity": 2.2759
+        },
+        {
+            "price": 428.48,
+            "quantity": 2.0181
+        },
+        {
+            "price": 428.16,
+            "quantity": 2.0806
+        },
+        {
+            "price": 428.08,
+            "quantity": 1.1248
+        },
+        {
+            "price": 425.16,
+            "quantity": 1.1712
+        },
+        {
+            "price": 422.39,
+            "quantity": 0.6811
+        },
+        {
+            "price": 421.61,
+            "quantity": 2.7432
+        },
+        {
+            "price": 421.14,
+            "quantity": 1.5036
+        },
+        {
+            "price": 420,
+            "quantity": 0.5
+        },
+        {
+            "price": 418.91,
+            "quantity": 2.1671
+        },
+        {
+            "price": 417.5,
+            "quantity": 0.293
+        },
+        {
+            "price": 415.7,
+            "quantity": 2.1228
+        },
+        {
+            "price": 415,
+            "quantity": 0.315
+        },
+        {
+            "price": 412.92,
+            "quantity": 0.5171
+        },
+        {
+            "price": 411.4,
+            "quantity": 1.0872
+        },
+        {
+            "price": 411.15,
+            "quantity": 2.327
+        },
+        {
+            "price": 410.36,
+            "quantity": 0.6647
+        },
+        {
+            "price": 410.32,
+            "quantity": 0.4789
+        },
+        {
+            "price": 410.08,
+            "quantity": 1.2729
+        },
+        {
+            "price": 410.06,
+            "quantity": 2.7507
+        },
+        {
+            "price": 408.64,
+            "quantity": 1.5923
+        },
+        {
+            "price": 407.86,
+            "quantity": 2.6042
+        },
+        {
+            "price": 407.8,
+            "quantity": 2.9087
+        },
+        {
+            "price": 407.63,
+            "quantity": 0.3565
+        },
+        {
+            "price": 407.24,
+            "quantity": 0.8945
+        },
+        {
+            "price": 406.53,
+            "quantity": 1.4094
+        },
+        {
+            "price": 406.44,
+            "quantity": 1.1913
+        },
+        {
+            "price": 406.4,
+            "quantity": 2.3272
+        },
+        {
+            "price": 405.8,
+            "quantity": 1.5875
+        },
+        {
+            "price": 405.59,
+            "quantity": 0.8415
+        },
+        {
+            "price": 405,
+            "quantity": 1.9
+        },
+        {
+            "price": 404.78,
+            "quantity": 0.9869
+        },
+        {
+            "price": 402.68,
+            "quantity": 0.705
+        },
+        {
+            "price": 401.91,
+            "quantity": 0.8843
+        },
+        {
+            "price": 401.5,
+            "quantity": 1.4672
+        },
+        {
+            "price": 401.3,
+            "quantity": 2.6573
+        },
+        {
+            "price": 401,
+            "quantity": 2.3156
+        },
+        {
+            "price": 400,
+            "quantity": 1.85
+        },
+        {
+            "price": 399.62,
+            "quantity": 1.3662
+        },
+        {
+            "price": 397.53,
+            "quantity": 2.3204
+        },
+        {
+            "price": 396.66,
+            "quantity": 0.419
+        },
+        {
+            "price": 395.88,
+            "quantity": 2.9201
+        },
+        {
+            "price": 394.86,
+            "quantity": 1.9399
+        },
+        {
+            "price": 394.64,
+            "quantity": 2.3293
+        },
+        {
+            "price": 393.58,
+            "quantity": 0.8043
+        },
+        {
+            "price": 392.68,
+            "quantity": 1.8591
+        },
+        {
+            "price": 391.86,
+            "quantity": 2.495
+        },
+        {
+            "price": 390.68,
+            "quantity": 0.833
+        },
+        {
+            "price": 390.12,
+            "quantity": 2.6642
+        },
+        {
+            "price": 390.07,
+            "quantity": 2.7871
+        },
+        {
+            "price": 389.92,
+            "quantity": 2.8091
+        },
+        {
+            "price": 389.66,
+            "quantity": 0.209
+        },
+        {
+            "price": 386.72,
+            "quantity": 2.4813
+        },
+        {
+            "price": 383.68,
+            "quantity": 2.1881
+        },
+        {
+            "price": 383.5,
+            "quantity": 1.7469
+        },
+        {
+            "price": 382.79,
+            "quantity": 2.1226
+        },
+        {
+            "price": 381.64,
+            "quantity": 2.5735
+        },
+        {
+            "price": 381.03,
+            "quantity": 0.8479
+        },
+        {
+            "price": 379.03,
+            "quantity": 2.9782
+        },
+        {
+            "price": 378.2,
+            "quantity": 0.8503
+        },
+        {
+            "price": 377.39,
+            "quantity": 2.2678
+        },
+        {
+            "price": 377.04,
+            "quantity": 1.729
+        },
+        {
+            "price": 372.87,
+            "quantity": 2.7014
+        },
+        {
+            "price": 372.44,
+            "quantity": 2.0231
+        },
+        {
+            "price": 371.43,
+            "quantity": 2.7543
+        },
+        {
+            "price": 370,
+            "quantity": 12
+        },
+        {
+            "price": 369.29,
+            "quantity": 1.5553
+        },
+        {
+            "price": 368.95,
+            "quantity": 0.2337
+        },
+        {
+            "price": 368.42,
+            "quantity": 2.184
+        },
+        {
+            "price": 368.2,
+            "quantity": 1.235
+        },
+        {
+            "price": 367.53,
+            "quantity": 2.967
+        },
+        {
+            "price": 367.39,
+            "quantity": 0.3402
+        },
+        {
+            "price": 367.32,
+            "quantity": 1.3135
+        },
+        {
+            "price": 367.15,
+            "quantity": 1.7827
+        },
+        {
+            "price": 367.06,
+            "quantity": 1.4641
+        },
+        {
+            "price": 365.16,
+            "quantity": 1.9443
+        },
+        {
+            "price": 365.01,
+            "quantity": 1
+        },
+        {
+            "price": 363.22,
+            "quantity": 1.9249
+        },
+        {
+            "price": 363.09,
+            "quantity": 0.4854
+        },
+        {
+            "price": 362.53,
+            "quantity": 0.3232
+        },
+        {
+            "price": 362.33,
+            "quantity": 0.2356
+        },
+        {
+            "price": 300,
+            "quantity": 13.01
+        },
+        {
+            "price": 251.2,
+            "quantity": 2.5
+        }
+    ],
+    "ticker": [
+        {
+            "ask": 450.79,
+            "bid": 448.97,
+            "change": 0,
+            "close": 450.09,
+            "currentTime": "2014-04-05 03:33:56 pm UTC",
+            "high": 454.83,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T15:00:00.0000000+00:00",
+            "low": 442.65,
+            "open": 450.09,
+            "tickerSymbol": "XBTUSD",
+            "volume": 50.1676
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 450.09,
+            "high": 450.09,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T14:00:00.0000000+00:00",
+            "low": 450.09,
+            "open": 450.09,
+            "volume": 0.1734
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T13:00:00.0000000+00:00",
+            "low": 452.77,
+            "open": 452.77,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T12:00:00.0000000+00:00",
+            "low": 452.77,
+            "open": 452.77,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T11:00:00.0000000+00:00",
+            "low": 452.77,
+            "open": 452.77,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T10:00:00.0000000+00:00",
+            "low": 452.77,
+            "open": 452.77,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T09:00:00.0000000+00:00",
+            "low": 452.77,
+            "open": 452.77,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 452.77,
+            "high": 452.77,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T08:00:00.0000000+00:00",
+            "low": 445.19,
+            "open": 445.19,
+            "volume": 8.2754
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 454.02,
+            "high": 454.02,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T07:00:00.0000000+00:00",
+            "low": 454.02,
+            "open": 454.02,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 454.02,
+            "high": 454.02,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T06:00:00.0000000+00:00",
+            "low": 454.02,
+            "open": 454.02,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 454.02,
+            "high": 454.02,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T05:00:00.0000000+00:00",
+            "low": 454.02,
+            "open": 454.02,
+            "volume": 0.04
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 453.66,
+            "high": 453.66,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T04:00:00.0000000+00:00",
+            "low": 453.16,
+            "open": 453.16,
+            "volume": 0.827
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 454.78,
+            "high": 454.83,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T03:00:00.0000000+00:00",
+            "low": 453.65,
+            "open": 454.83,
+            "volume": 0.6818
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 453,
+            "high": 453,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T02:00:00.0000000+00:00",
+            "low": 453,
+            "open": 453,
+            "volume": 3
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 449.99,
+            "high": 449.99,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T01:00:00.0000000+00:00",
+            "low": 449.99,
+            "open": 449.99,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 449.99,
+            "high": 449.99,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-05T00:00:00.0000000+00:00",
+            "low": 449.99,
+            "open": 449.99,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 449.99,
+            "high": 449.99,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T23:00:00.0000000+00:00",
+            "low": 449.99,
+            "open": 449.99,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 449.99,
+            "high": 449.99,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T22:00:00.0000000+00:00",
+            "low": 449.99,
+            "open": 449.99,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 449.99,
+            "high": 449.99,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T21:00:00.0000000+00:00",
+            "low": 449.99,
+            "open": 449.99,
+            "volume": 5
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 446,
+            "high": 446,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T20:00:00.0000000+00:00",
+            "low": 446,
+            "open": 446,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 446,
+            "high": 446,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T19:00:00.0000000+00:00",
+            "low": 446,
+            "open": 446,
+            "volume": 0
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 446,
+            "high": 446,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T18:00:00.0000000+00:00",
+            "low": 442.65,
+            "open": 442.65,
+            "volume": 10.03
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 442.65,
+            "high": 444,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T17:00:00.0000000+00:00",
+            "low": 442.65,
+            "open": 444,
+            "volume": 17.72
+        },
+        {
+            "ask": 0,
+            "bid": 0,
+            "change": 0,
+            "close": 443.24,
+            "high": 443.56,
+            "intervalInMinutes": 60,
+            "intervalStart": "2014-04-04T16:00:00.0000000+00:00",
+            "low": 443.24,
+            "open": 443.5,
+            "volume": 4.42
+        }
+    ]
+}

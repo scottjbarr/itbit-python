@@ -1,6 +1,8 @@
 # ITBit
 
-An incomplete API client for [itBit](https://www.itbit.com/).
+A complete API client for [itBit](https://www.itbit.com/).
+
+The API is limited, and does not provide and possibility for executing orders.
 
 ## References
 

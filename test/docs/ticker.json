@@ -1,0 +1,14 @@
+{
+    "ask": 451.61,
+    "bid": 449.87,
+    "change": 0,
+    "close": 450.09,
+    "currentTime": "2014-04-05 03:01:25 pm UTC",
+    "high": 454.83,
+    "intervalInMinutes": 60,
+    "intervalStart": "2014-04-05T15:00:00.0000000+00:00",
+    "low": 442.65,
+    "open": 450.09,
+    "tickerSymbol": "XBTUSD",
+    "volume": 50.1676
+}
