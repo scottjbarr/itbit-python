@@ -34,5 +34,4 @@ class Itbit(object):
 
 
     def _json(self, resource):
-        print self._url(resource)
         return requests.get(self._url(resource)).json()
