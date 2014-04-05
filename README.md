@@ -30,13 +30,6 @@ Or you can just run the tests...
     nosetests --nocapture --rednose --with-coverage --cover-package=itbit
 
 
-### Test Coverage
-
-Test coverage of the code. View cover/index.html to view detailed reports.
-
-    nosetests --with-coverage --cover-html --cover-package bitfinex
-
-
 ## References
 
 - [https://www.itbit.com/](https://www.itbit.com/)
