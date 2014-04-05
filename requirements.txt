@@ -1,4 +1,5 @@
 simplejson
 requests
-httpmock
+httpretty
 sure
+coverage
