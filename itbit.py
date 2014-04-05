@@ -7,6 +7,9 @@ class Itbit(object):
 
 
     def __init__(self, symbol='XBTUSD'):
+        """
+        Valid symbols : XBTUSD, XBTEUR, XBTSGD
+        """
         self.symbol = symbol
 
 
